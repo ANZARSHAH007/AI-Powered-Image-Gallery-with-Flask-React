@@ -1,1 +1,2 @@
 # AI-Powered-Image-Gallery-with-Flask-React
+*This project is a full-stack AI-powered image gallery web application .It allows users to upload images, view AI-generated captions, detected objects, semantic embeddings, and enriched metadata, and perform CRUD operations .The backend is built with Flask (Python), using MongoDB for storage and several AI/ML libraries for image analysis. The frontend is built with React, providing a modern, responsive UI.**
